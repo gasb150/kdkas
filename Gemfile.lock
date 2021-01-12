@@ -200,7 +200,7 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  bundler (~> 2.2.1)
+  bundler
   byebug
   capybara (>= 3.26)
   jbuilder (~> 2.7)
